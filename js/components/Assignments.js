@@ -37,7 +37,8 @@ export default {
             this.assignments.push({
                 name: name,
                 completed: false,
-                id: this.assignments.length + 1
+                id: this.assignments.length + 1,
+                tag: 'history',
             });
         }
     }
