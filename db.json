@@ -1,25 +1,30 @@
 {
     "assignments": [
         {
-            "name": "Finish project",
+            "name": "hoan thanh project",
             "complete": false,
             "id": 1,
             "tag": "math"
         },
         {
-            "name": "Read chapter 4",
+            "name": "hoc laravel",
             "complete": false,
             "id": 1,
             "tag": "science"
         },
         {
-            "name": "Turn in homework",
+            "name": "hoc vue",
             "complete": false,
             "id": 1,
             "tag": "math"
         },
         {
-            "name": "Finish Laracasts video",
+            "name": "hoc php",
+            "complete": true,
+            "tag": "history"
+        },
+        {
+            "name": "xem video laracast",
             "complete": true,
             "id": 1,
             "tag": "programming"
